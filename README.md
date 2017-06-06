@@ -1,5 +1,13 @@
 # Guided-Neural-Style-Transfer
-hep some text explaining the project
+This project is made for our multimedia programming course.
+
+###Overview
+hep
+
+###Dependencies
+There are some dependencies you have to install for the program to run.
+run `pip install -r requirements.txt` to install the necessary dependencies
+...........
 
 ---
 
