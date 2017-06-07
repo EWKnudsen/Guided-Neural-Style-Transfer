@@ -9,6 +9,8 @@ There are some dependencies you have to install for the program to run.
 run `pip install -r requirements.txt` to install the necessary dependencies
 ...........
 
+[create an anchor](#anchors-in-markdown)
+
 ---
 
 ## Contributors
