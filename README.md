@@ -7,14 +7,16 @@ There are some necessary dependencies you have to install for the program to run
 run `pip install -r requirements.txt` to install those through the terminal. 
 
 Create a file called ~/.keras/keras.json and write the following in it:
- ````
+ 
+````
 {
        "image_dim_ordering": "tf",
        "epsilon": 1e-07,
        "floatx": "float32",
        "backend": "tensorflow"
    }
-```` The code can then be execute by typing `jupyter notebook` into the terminal
+````
+The code can then be execute by typing `jupyter notebook` into the terminal
 
 ---
 
