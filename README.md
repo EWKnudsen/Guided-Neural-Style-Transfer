@@ -1,4 +1,4 @@
-# Guided-Neural-Style-Transfer
+# Guided Neural Style Transfer
 This project is a keras implementation using Tensorflow as backend that performs an alternative style transfer method. 
 Our implementation differs from the original ([Gatys et al., 2015](https://arxiv.org/abs/1508.06576)), in that the semantics of the content image is not iterately being transfered onto the output by an optimization function. Instead, local information from the style image is being directly transfered over to the content image. This creates an more abstract output image where the local features from a the style image is more prominent. The code is inspired by [hnarayanan](https://github.com/hnarayanan/artistic-style-transfer), who have implemented the original "Gatys et. al" style transfer method with keras and Tensorflow as backend. 
 
