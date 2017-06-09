@@ -21,9 +21,10 @@ The code can then be execute by running `jupyter notebook` in the terminal
 
 ## Contributors
 
-- Esben Winther Knudsen
-- Malte Hølledig
-- Sebastian Bach-Nielsen
+- Esben W. Knudsen
+- Sebastian S. Bach-Nielsen
+- Malte L. Hølledig
+
 
 ---
 
