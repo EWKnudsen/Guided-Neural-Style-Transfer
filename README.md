@@ -30,6 +30,6 @@ The code can then be execute by running `jupyter notebook` in the terminal
 
 ## License & copyright
 
-© Esben W. Knudsen, Aalborg University cph Medialogy
+© Esben Winther Knudsen, Aalborg University cph Medialogy
 
 Licensed under the [MIT License](LICENSE).
