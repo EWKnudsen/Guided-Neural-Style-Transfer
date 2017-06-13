@@ -17,6 +17,10 @@ Create a file called ~/.keras/keras.json and write the following in it:
 ````
 The code can then be execute by running `jupyter notebook` in the terminal
 
+### Example of the difference
+
+![alt text](https://github.com/EWKnudsen/Guided-Neural-Style-Transfer/blob/master/images/examples/meat-styletransfer.jpg)
+
 ---
 
 ## Contributors
